@@ -28,7 +28,7 @@ PLANORA is a personal planner web application built using HTML, CSS, and JavaScr
 
 1. Download or clone the project files
 2. Open the project folder in VS Code
-3. Open `index.html` in browser
+3. Open `plan html.html` in browser
 4. Start using the application
 
 ## Project Purpose
